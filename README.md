@@ -1,6 +1,6 @@
 # CS-319 UI/UX Design
 
-Welcome to the **CS-319 UI/UX Design** repository — a curated collection of user interface and user experience design coursework and deliverables created as part of the CS-319 course.
+Welcome to the **CS-319 UI/UX Design** repository — a curated collection of user interface and user experience design coursework and deliverables I created as part of the CS-319 course.
 
 This repository captures the full design process, including user research, wireframes, prototypes, usability testing artifacts, and final interface layouts. It demonstrates user-centered design thinking and practical application of industry best practices.
 
