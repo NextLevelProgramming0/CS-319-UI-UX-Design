@@ -20,23 +20,6 @@ Whether you’re evaluating user flows, UI patterns, or visual hierarchy, this r
 
 ---
 
-## 📁 Repository Structure
-
-The folders and files in this repository follow design deliverable categories such as:
-
-CS-319 UI-UX-Design/
-├── research/
-├── wireframes/
-├── prototypes/
-├── usability_testing/
-├── final_designs/
-└── README.md
-
-
-> Note: Actual folders may vary depending on how your coursework was structured.
-
----
-
 ## 📌 Key Highlights
 
 ### 🗂 Research & Discovery
