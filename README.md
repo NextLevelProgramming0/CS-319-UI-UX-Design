@@ -16,8 +16,6 @@ The goal of this course project was to apply core UX/UI principles to real or hy
 - Applying **visual design principles** (layout, typography, color, accessibility)  
 - Documenting **design rationale and usability findings**
 
-Whether you’re evaluating user flows, UI patterns, or visual hierarchy, this repository highlights thoughtful design decisions at every stage.
-
 ---
 
 ## 📌 Key Highlights
