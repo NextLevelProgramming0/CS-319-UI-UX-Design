@@ -1,8 +1,52 @@
-# CS-319-UI-UX-Design
-1) What the projects do?
+# CS-319 UI/UX Design
 
-   Both of these projects were assignment to me to teach me how to design UI/UX wireframe prototypes for the design of applications for different devices.  I learned a lot about using Lucid Chart to create these different wireframes.  I also learned the many different techniques that UI/UX designers use in order to make sure that communication and information between all involved parties are documented and factored into the start or creation of the project.
+Welcome to the **CS-319 UI/UX Design** repository — a curated collection of user interface and user experience design coursework and deliverables created as part of the CS-319 course.
 
-2) How are these projects useful?
+This repository captures the full design process, including user research, wireframes, prototypes, usability testing artifacts, and final interface layouts. It demonstrates user-centered design thinking and practical application of industry best practices.
 
-   These projects can be used as a base for future wireframes and as an example of part of my knowledge on the creation of wireframes.
+---
+
+## 🧠 About This Project
+
+The goal of this course project was to apply core UX/UI principles to real or hypothetical design challenges by:
+
+- Conducting **user research** and developing user personas  
+- Creating **wireframes** and low-fidelity sketches  
+- Building **interactive prototypes**  
+- Applying **visual design principles** (layout, typography, color, accessibility)  
+- Documenting **design rationale and usability findings**
+
+Whether you’re evaluating user flows, UI patterns, or visual hierarchy, this repository highlights thoughtful design decisions at every stage.
+
+---
+
+## 📁 Repository Structure
+
+The folders and files in this repository follow design deliverable categories such as:
+
+CS-319 UI-UX-Design/
+├── research/
+├── wireframes/
+├── prototypes/
+├── usability_testing/
+├── final_designs/
+└── README.md
+
+
+> Note: Actual folders may vary depending on how your coursework was structured.
+
+---
+
+## 📌 Key Highlights
+
+### 🗂 Research & Discovery
+Contains user interviews, surveys, personas, and problem statements that define the design challenge and target audience.
+
+### 🖼 Wireframes
+Low-fidelity sketches and layout concepts that establish information structure and interaction patterns.
+
+### 🔍 Usability Testing
+Observation notes, feedback summaries, and insights that informed iterative design improvements.
+
+Polished screens demonstrating visua
+
